@@ -2,6 +2,8 @@
 
 This project is an affective computing project that studies how visual context affects emotion recognition in images. The project uses the EMOTIC dataset and compares emotion classification results using full images and cropped face-only images.
 
+![image alt](https://github.com/pearl31patel/Context-Aware-Emotion-Recognition/blob/9dbf46b25e31af006997c65c6f71de3b1b70f0de/context.png)
+
 ## Project Overview
 
 Emotion recognition from images is a challenging task because emotions can depend on both facial expression and surrounding context. In this project, vision-language models were used to classify emotions under two conditions:
