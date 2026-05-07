@@ -1,0 +1,19 @@
+{
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "provider": "novita",
+  "n_full_attempted": 1000,
+  "n_face_attempted": 957,
+  "n_face_failures": 43,
+  "full_image_metrics": {
+    "accuracy": 0.148,
+    "precision_weighted": 0.16313487048890146,
+    "recall_weighted": 0.148,
+    "f1_weighted": 0.12655410712626355
+  },
+  "face_only_metrics": {
+    "accuracy": 0.15569487983281086,
+    "precision_weighted": 0.13228633483867522,
+    "recall_weighted": 0.15569487983281086,
+    "f1_weighted": 0.12463841849509012
+  }
+}

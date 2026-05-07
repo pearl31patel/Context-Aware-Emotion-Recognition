@@ -1,0 +1,19 @@
+{
+  "model": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+  "provider": "novita",
+  "n_full_attempted": 1000,
+  "n_face_attempted": 957,
+  "n_face_failures": 43,
+  "full_image_metrics": {
+    "accuracy": 0.158,
+    "precision_weighted": 0.1717408952773559,
+    "recall_weighted": 0.158,
+    "f1_weighted": 0.12840093590408663
+  },
+  "face_only_metrics": {
+    "accuracy": 0.16405433646812956,
+    "precision_weighted": 0.1657114726039184,
+    "recall_weighted": 0.16405433646812956,
+    "f1_weighted": 0.1281928951519064
+  }
+}

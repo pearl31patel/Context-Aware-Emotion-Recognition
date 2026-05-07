@@ -1,0 +1,39 @@
+{
+  "zip_path": "emotic.zip",
+  "models": [
+    "Qwen/Qwen3-VL-8B-Instruct",
+    "zai-org/GLM-4.5V",
+    "Qwen/Qwen3-VL-30B-A3B-Instruct"
+  ],
+  "total_images_used": 1000,
+  "missing_images": 0,
+  "labels": [
+    "Affection",
+    "Anger",
+    "Annoyance",
+    "Anticipation",
+    "Aversion",
+    "Confidence",
+    "Disapproval",
+    "Disconnection",
+    "Disquietment",
+    "Doubt/Confusion",
+    "Embarrassment",
+    "Engagement",
+    "Esteem",
+    "Excitement",
+    "Fatigue",
+    "Fear",
+    "Happiness",
+    "Pain",
+    "Peace",
+    "Pleasure",
+    "Sadness",
+    "Sensitivity",
+    "Suffering",
+    "Surprise",
+    "Sympathy",
+    "Yearning"
+  ],
+  "cropping_method": "Ground-truth bounding boxes"
+}

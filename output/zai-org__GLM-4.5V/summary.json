@@ -1,0 +1,19 @@
+{
+  "model": "zai-org/GLM-4.5V",
+  "provider": "novita",
+  "n_full_attempted": 1000,
+  "n_face_attempted": 957,
+  "n_face_failures": 43,
+  "full_image_metrics": {
+    "accuracy": 0.146,
+    "precision_weighted": 0.19630768636675386,
+    "recall_weighted": 0.146,
+    "f1_weighted": 0.12577261758761785
+  },
+  "face_only_metrics": {
+    "accuracy": 0.14225941422594143,
+    "precision_weighted": 0.18008817436411753,
+    "recall_weighted": 0.14225941422594143,
+    "f1_weighted": 0.12465182676631867
+  }
+}
